@@ -14,4 +14,3 @@ app.set("view engine", "ejs");
 
 
 module.exports = app;
-//테스트입
